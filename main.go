@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/rsora/tsn/internal/syllable"
+	"github.com/rsora/tsn/pkg/syllable"
 )
 
 const syllables = 2

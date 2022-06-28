@@ -13,3 +13,9 @@ None, for now
 
 ### Output
 It outputs a string like `pafo` or `tuli` generated randomly appending two random syllables of 2 letters each.
+
+## How to run
+
+```sh
+go run .
+```
